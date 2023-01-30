@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizeth0&label=Profile%20views&color=0e75b6&style=flat" alt="luizeth0" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🧑🏻‍💻 I’m currently learning **Kotlin, Data Structures and Algorithms**
 
