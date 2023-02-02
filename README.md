@@ -10,7 +10,7 @@
 
 <!--- 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)-->
 
-- 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux** etc. 
+- 🤝🏻 I’m open to working on projects involving **FullStack**.
 
 - 📫 Reach me at : **luis.hemi94@gmail.com**
 
